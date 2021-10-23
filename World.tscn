@@ -46,7 +46,10 @@ position = Vector2( -0.487671, 30.2359 )
 color = Color( 0.00784314, 0.0431373, 0.145098, 1 )
 
 [node name="Wall" type="StaticBody2D" parent="."]
-position = Vector2( -13.0416, -15.8275 )
+position = Vector2( 8.40799, -41.6464 )
+__meta__ = {
+"_edit_group_": true
+}
 
 [node name="Sprite" type="Sprite" parent="Wall"]
 texture = ExtResource( 5 )
@@ -94,8 +97,11 @@ texture = ExtResource( 5 )
 occluder = SubResource( 2 )
 
 [node name="Node2D" type="Node2D" parent="."]
+position = Vector2( -13.5054, -84.2094 )
 script = ExtResource( 6 )
+__meta__ = {
+"_edit_group_": true
+}
 
 [node name="Sprite" type="Sprite" parent="Node2D"]
-position = Vector2( 34.9549, -73.0874 )
 texture = ExtResource( 3 )
