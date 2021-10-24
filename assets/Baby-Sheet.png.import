@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Sprite-0001.png-7647bf9f8b536d839277d4b64aee9852.stex"
+path="res://.import/Baby-Sheet.png-74156150ebd3160e90c00fe78aeaa535.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprite-0001.png"
-dest_files=[ "res://.import/Sprite-0001.png-7647bf9f8b536d839277d4b64aee9852.stex" ]
+source_file="res://assets/Baby-Sheet.png"
+dest_files=[ "res://.import/Baby-Sheet.png-74156150ebd3160e90c00fe78aeaa535.stex" ]
 
 [params]
 
@@ -20,7 +20,7 @@ compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
-flags/filter=true
+flags/filter=false
 flags/mipmaps=false
 flags/anisotropic=false
 flags/srgb=2
